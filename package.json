@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {"start": "nodemon js1_javascript_basic_and_arithmatic_operation.js"}
+}
