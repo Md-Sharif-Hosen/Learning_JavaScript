@@ -99,7 +99,38 @@ console.log('amar kace cash ace: '+buy3 );
 
 
 
+//Just Function
+function sum12(num1,num2)
+{
+    let result=num1+num2;
+    return result;
+}
+let my_result12=sum12(10,80);
+console.log(my_result12);
 
+//Just Function
+const sum11=function(num1,num2)
+{
+    let result=num1+num2;
+    return result;
+}
+let my_result11=sum11(10,80);
+console.log(my_result11);
+
+//Arraw Function
+const sum1=(num1,num2)=>
+{
+    let result=num1+num2;
+    return result;
+}
+let my_result1=sum1(10,20);
+console.log(my_result1);
+
+//Arraw function
+const sum=(num1,num2)=>num1+num2;
+
+let my_result=sum(10,20);
+console.log(my_result);
 
 
 
