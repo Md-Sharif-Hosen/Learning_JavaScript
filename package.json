@@ -2,5 +2,5 @@
   "dependencies": {
     "nodemon": "^2.0.22"
   },
-  "scripts": {"start": "nodemon js2_javascript_Data_Type.js"}
+  "scripts": {"start": "nodemon js3_javascript_Function.js"}
 }
